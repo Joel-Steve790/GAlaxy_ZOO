@@ -1,0 +1,8 @@
+# Galaxy image files are kept locally but not stored in this repository.
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Small archive containing a handful of galaxy images.
+/galaxy_project/archive/images_gz2/z
